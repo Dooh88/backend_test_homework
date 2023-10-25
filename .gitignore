@@ -1,3 +1,2 @@
 # Игнорировать .doc
-123.doc
-text.doc
+*.doc
